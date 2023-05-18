@@ -1,3 +1,4 @@
+![logo](https://github.com/Hades0x/Hades0x/blob/main/prateek%20Raj.png)
 <h1 align="center">Hi 👋, I'm Prateek Raj</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif">
