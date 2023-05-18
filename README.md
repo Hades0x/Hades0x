@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Raj</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align ="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hades0x&label=Profile%20views&color=0e75b6&style=flat" alt="hades0x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pratick_3" target="blank"><img src="https://img.shields.io/twitter/follow/pratick_3?logo=twitter&style=for-the-badge" alt="pratick_3" /></a> </p>
@@ -34,6 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hades0x&show_icons=true&locale=en" alt="hades0x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hades0x&" alt="hades0x" /></p>
-
-
-![image](https://github.com/Hades0x/Hades0x/assets/93994887/0a0f909b-20a8-4f23-bf76-5505c74f01f4)
